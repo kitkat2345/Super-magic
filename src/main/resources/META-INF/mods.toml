@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="supermagic"
+version="${mod_version}"
+displayName="Super Magic"
+description='''
+A stylish fire spell mod for Minecraft 1.20.1.
+'''
+authors="kitkat2345"
+
+[[dependencies.supermagic]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
